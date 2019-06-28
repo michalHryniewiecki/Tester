@@ -7,7 +7,7 @@ Repositorium where stores all necessary data about testing.
 * JUnit  -  a testing framework for junit tests 
 
 ### Stored documentation
-* [Assumptions of automated tests](https://github.com/michalHryniewiecki/Tester/testingKnowledge/AssumptionsOfAutomatedTests.md)
+* [Assumptions of automated tests](https://github.com/michalHryniewiecki/Tester/blob/master/testingKnowledge/AssumptionsOfAutomatedTests.md)
 
 ##### Commits
 * Tags
