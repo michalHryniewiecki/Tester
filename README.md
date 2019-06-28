@@ -9,7 +9,7 @@ Repositorium where stores all necessary data about testing.
 ### Stored documentation
 * [Assumptions of automated tests](https://github.com/michalHryniewiecki/Tester/blob/master/testingKnowledge/AssumptionsOfAutomatedTests.md)
 
-##### Commits
+### Commits
 * Tags
   * [doc] - documentation: testing knowledge or project documentation
   * [unit] - commits with unit tests
